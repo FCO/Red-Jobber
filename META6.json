@@ -1,0 +1,27 @@
+{
+  "auth": "zef:FCO",
+  "authors": [
+    "Fernando Corrêa de Oliveira"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "blah blah blah",
+  "license": "Artistic-2.0",
+  "name": "RedJobber",
+  "perl": "6.d",
+  "provides": {
+    "RedJobber": "lib/RedJobber.rakumod",
+    "RedJobber::Job": "lib/RedJobber/Job.rakumod",
+    "RedJobber::JobType": "lib/RedJobber/JobType.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
